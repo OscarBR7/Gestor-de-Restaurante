@@ -33,7 +33,7 @@
 ### Clonar el repositorio
 ```bash
 git clone https://github.com/OscarBR7/Gestor-de-Restaurante.git
-cd RestauranteApp
+cd Gestor-de-Restaurante
 ```
 
 ### Crear y activar entorno virtual
